@@ -38,7 +38,7 @@
 
 
 ### Ask a Question / Dicussions
-<img width="1188" height="922" alt="image" src="https://github.com/user-attachments/assets/c99f65ed-df59-4d41-b49c-65a9a41861ae" />
+<img width="1130" height="601" alt="image" src="https://github.com/user-attachments/assets/66fc6560-fb3e-46b0-a6b8-92fd0bfb22c7" />
 
 
 --- 
@@ -114,7 +114,7 @@ blank_issues_enabled: false
 
 contact_links:
   - name: 💬 Ask a Question
-    url: https://github.com/mis-bghmc/your-repo/discussions
+    url: url_of_youre_repo_discussions
     about: Please use Discussions for questions
 ```
 
