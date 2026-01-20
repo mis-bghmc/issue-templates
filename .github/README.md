@@ -71,6 +71,16 @@ to the **root of your repository**. Make sure the folder structure remains **exa
             - 04-doc.yml
             - config.yml
 
+### 2. Commit and push to your repository:
+
+```bash
+git add .github/ISSUE_TEMPLATE
+git commit -m "Add issue templates"
+git push origin main
+```
+
+## Additional Settings
+
 ### 2. Create custom label
 | Label                | Meaning / Purpose                                                 |
 | -------------------- | ----------------------------------------------------------------- |
@@ -97,10 +107,4 @@ to the **root of your repository**. Make sure the folder structure remains **exa
 ### 3. Activate the Discussions
 In you repo -> Settings > Features > Discussions (check)
 
-### 4. Commit and push to your repository:
-
-```bash
-git add .github/ISSUE_TEMPLATE
-git commit -m "Add issue templates"
-git push origin main
 
