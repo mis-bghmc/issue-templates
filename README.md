@@ -26,6 +26,8 @@
 ### [2] 🚀 Feature Request
 <img width="1223" height="697" alt="image" src="https://github.com/user-attachments/assets/cdeea908-8913-4179-b9c5-14124e284c4d" />
 <img width="989" height="484" alt="image" src="https://github.com/user-attachments/assets/7d50d7b0-eeec-4ff5-b05a-40159de19f3f" />
+<img width="777" height="332" alt="image" src="https://github.com/user-attachments/assets/1ac1be12-248b-4e80-9d8c-f8ef117ee9fb" />
+
 
 
 
