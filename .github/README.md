@@ -109,9 +109,11 @@ In you repo -> Settings > Features > Discussions (check)
 
 ### nodify the config.yml for you discussions repo link
 Open **config.yml**
+modify the url 
+
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 Ask a Question
-    url: https://github.com/mis-bghmc/your-repo/discussions
-    about: Please use Discussions for questions
+- name: 💬 Ask a Question
+- **url:  https://github.com/mis-bghmc/your-repo/discussions**
+- about: Please use Discussions for questions
 
