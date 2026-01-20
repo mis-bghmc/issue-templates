@@ -23,10 +23,11 @@
 <img width="930" height="465" alt="image" src="https://github.com/user-attachments/assets/efe7c89c-9693-43ec-a48b-cd4ea234a85a" />
 
 
-
-
 ### [2] 🚀 Feature Request
-<img width="1375" height="1151" alt="image" src="https://github.com/user-attachments/assets/1c6af060-f145-488d-816f-d806d324f89b" />
+<img width="1223" height="697" alt="image" src="https://github.com/user-attachments/assets/cdeea908-8913-4179-b9c5-14124e284c4d" />
+<img width="989" height="484" alt="image" src="https://github.com/user-attachments/assets/7d50d7b0-eeec-4ff5-b05a-40159de19f3f" />
+
+
 
 ### [3] 📋 Task / Story
 <img width="1396" height="880" alt="image" src="https://github.com/user-attachments/assets/7b1a4597-e196-4884-8d19-9ca06ea9b02b" />
