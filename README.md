@@ -14,11 +14,16 @@
 ### 🖼️ Screenshot
 
 #### Main Option
-<img width="842" height="394" alt="image" src="https://github.com/user-attachments/assets/befdef2c-aa80-40b9-9f80-461724fbc67d" />
+<img width="848" height="383" alt="image" src="https://github.com/user-attachments/assets/e5ae6750-02c2-43cd-ad4b-b5de503d0cee" />
 
 
 #### [1] 🐛 Bug Report
-<img width="1053" height="1237" alt="image" src="https://github.com/user-attachments/assets/5e771637-379a-4850-82bb-3b395202d06c" />
+<img width="1226" height="717" alt="image" src="https://github.com/user-attachments/assets/0c254523-9f5f-457e-a8b0-5c65eaca0835" />
+<img width="978" height="830" alt="image" src="https://github.com/user-attachments/assets/eb976192-9e92-470d-9694-2e6fe4c9ce0e" />
+<img width="930" height="465" alt="image" src="https://github.com/user-attachments/assets/efe7c89c-9693-43ec-a48b-cd4ea234a85a" />
+
+
+
 
 ### [2] 🚀 Feature Request
 <img width="1375" height="1151" alt="image" src="https://github.com/user-attachments/assets/1c6af060-f145-488d-816f-d806d324f89b" />
@@ -48,7 +53,7 @@
 ## ⚡ How to Use
 If you want to **reuse these templates in your own repository**, follow these steps:
 
-### 1. Copy the entire folder:
+### 1. Dowload () Copy the entire folder:
 to the **root of your repository**. Make sure the folder structure remains **exactly the same**.
 
 - your-repo-root-folder
