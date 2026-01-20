@@ -29,10 +29,9 @@
 <img width="777" height="332" alt="image" src="https://github.com/user-attachments/assets/1ac1be12-248b-4e80-9d8c-f8ef117ee9fb" />
 
 
-
-
 ### [3] 📋 Task / Story
-<img width="1396" height="880" alt="image" src="https://github.com/user-attachments/assets/7b1a4597-e196-4884-8d19-9ca06ea9b02b" />
+<img width="1212" height="767" alt="image" src="https://github.com/user-attachments/assets/d2606057-a6af-4ffe-ab12-f665e4c05ae8" />
+
 
 ### [4] 📄 Documentation
 <img width="1382" height="585" alt="image" src="https://github.com/user-attachments/assets/e49ee429-baa3-415f-aecc-bd938bab6a01" />
