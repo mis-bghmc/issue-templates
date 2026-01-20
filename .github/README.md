@@ -57,7 +57,7 @@
 ## ⚡ How to Use
 If you want to **reuse these templates in your own repository**, follow these steps:
 
-### 1. Dowload  - go to **<> Code - dowload ZIP** and copy the entire folder to your repo:
+### 1. Dowload file (**<> Code -> dowload ZIP**) and copy the entire folder to your repo:
 <img width="424" height="377" alt="image" src="https://github.com/user-attachments/assets/a3fef3f0-7fb8-4954-979a-4b3a41337797" />
 
 to the **root of your repository**. Make sure the folder structure remains **exactly the same**.
