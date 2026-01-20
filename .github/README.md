@@ -37,7 +37,7 @@
 <img width="762" height="576" alt="image" src="https://github.com/user-attachments/assets/0d7dffd6-19f0-4d1f-b580-62fea91de4eb" />
 
 
-### Aska Question / Dicussions
+### Ask a Question / Dicussions
 <img width="1188" height="922" alt="image" src="https://github.com/user-attachments/assets/c99f65ed-df59-4d41-b49c-65a9a41861ae" />
 
 
