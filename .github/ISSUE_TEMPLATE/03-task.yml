@@ -1,0 +1,34 @@
+name: "[3] 📋 Task / Story"
+description: Work item for development or maintenance
+title: "[Task]: "
+labels: ["task"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What this task is about
+      placeholder: "Describe the task clearly. Include the goal and context."
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      description: Conditions to consider this task done
+      placeholder: "List the criteria to mark this task complete, e.g., '- [ ] Tests pass', '- [ ] Feature implemented'."
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Component / Area
+      description: Which part of the project this task relates to
+      options:
+        - Frontend & Backend
+        - Frontend
+        - Backend
+        - API
+        - Infra
+        - QA
+        - Other

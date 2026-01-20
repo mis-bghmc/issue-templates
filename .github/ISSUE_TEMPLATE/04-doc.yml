@@ -1,0 +1,20 @@
+name: "[4] 📄 Documentation"
+description: Report missing or incorrect documentation
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: Documentation Issue
+      description: What needs to be updated?
+      placeholder: "Explain what is wrong, missing, or unclear in the documentation."
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Page / File
+      description: Link or file path
+      placeholder: "Provide the URL, page, or file path where the documentation is located."
