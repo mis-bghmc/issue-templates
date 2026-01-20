@@ -1,0 +1,95 @@
+# 📌 ISSUES Templates
+
+| Template | Purpose |
+|----------|---------|
+| 🐛 **Bug Report** (`01-bug.yml`)             | Report reproducible bugs with environment, steps to reproduce, expected vs actual behavior, and optional screenshots/logs. |
+| 🚀 **Feature Request** (`02-feature.yml`)    | Suggest new features or improvements, including problem statement, proposed solution, impact, and estimated size. |
+| 📋 **Task / Story** (`03-task.yml`)          | Track development or maintenance work with description, acceptance criteria, and affected area/component. |
+| 📄 **Documentation Issue** (`04-docs.yml`)    | Report missing, unclear, or incorrect documentation, including page/file location. |
+| 💬 **Ask a Question** (`contact_links:`)       | Using the Discussions for questions |
+
+
+---
+
+### 🖼️ Screenshot
+
+#### Main Option
+<img width="842" height="394" alt="image" src="https://github.com/user-attachments/assets/befdef2c-aa80-40b9-9f80-461724fbc67d" />
+
+
+#### [1] 🐛 Bug Report
+<img width="1053" height="1237" alt="image" src="https://github.com/user-attachments/assets/5e771637-379a-4850-82bb-3b395202d06c" />
+
+### [2] 🚀 Feature Request
+<img width="1375" height="1151" alt="image" src="https://github.com/user-attachments/assets/1c6af060-f145-488d-816f-d806d324f89b" />
+
+### [3] 📋 Task / Story
+<img width="1396" height="880" alt="image" src="https://github.com/user-attachments/assets/7b1a4597-e196-4884-8d19-9ca06ea9b02b" />
+
+### [4] 📄 Documentation
+<img width="1382" height="585" alt="image" src="https://github.com/user-attachments/assets/e49ee429-baa3-415f-aecc-bd938bab6a01" />
+
+### Aska Question / Dicussions
+<img width="1306" height="928" alt="image" src="https://github.com/user-attachments/assets/02e1bac1-8eed-4f00-bc93-973228018811" />
+
+--- 
+
+## 💡 Best Practices
+
+- Check existing issues before submitting a new one.
+- Be **clear and concise**.
+- Include **steps to reproduce** for bugs.
+- Add **links, screenshots, or references** where relevant.
+- For tasks, clearly define **acceptance criteria**.
+- Use the **correct template** to help maintainers triage issues quickly.
+
+---
+
+## ⚡ How to Use
+If you want to **reuse these templates in your own repository**, follow these steps:
+
+### 1. Copy the entire folder:
+to the **root of your repository**. Make sure the folder structure remains **exactly the same**.
+
+- your-repo-root-folder
+    - .github
+        - ISSUE_TEMPLATE
+            - 01-bug.yml
+            - 02-feature.yml
+            - 03-task.yml
+            - 04-doc.yml
+            - config.yml
+
+### 2. Create custom label
+| Label                | Meaning / Purpose                                                 |
+| -------------------- | ----------------------------------------------------------------- |
+| `needs-triage`       | Newly submitted issue that hasn’t been reviewed yet.              |
+| `good first issue`   | Tasks suitable for new contributors or beginners.                 |
+| `blocked`            | Issue cannot proceed until a dependency is resolved.              |
+| `help wanted`        | Maintainers want community assistance.                            |
+| `bug`                | Confirms the issue is a bug.                                      |
+| `critical`           | Bug that breaks core functionality and needs immediate attention. |
+| `high`               | High-severity issue affecting key features.                       |
+| `medium`             | Medium-severity or medium-complexity issue.                       |
+| `low`                | Low-severity issue or minor/cosmetic problem.                     |
+| `enhancement`        | Proposed feature or improvement.                                  |
+| `small`              | Small or low-effort task or feature.                              |
+| `large`              | Large or complex task, feature, or epic.                          |
+| `task`               | General task or user story.                                       |
+| `documentation`      | Issue related to documentation or docs updates.                   |
+| `frontend`           | Affects the frontend/UI.                                          |
+| `backend`            | Affects the backend/server-side.                                  |
+| `frontend & backend` | Affects both frontend/UI and Affects the backend/server-side.     |
+| `API`                | Relates to API endpoints or API work.                             |
+| `infra`              | Relates to infrastructure, DevOps, or deployment.                 |
+
+### 3. Activate the Discussions
+In you repo -> Settings > Features > Discussions (check)
+
+### 4. Commit and push to your repository:
+
+```bash
+git add .github/ISSUE_TEMPLATE
+git commit -m "Add issue templates"
+git push origin main
+
