@@ -81,7 +81,7 @@ git push origin main
 
 ## Additional Settings
 
-### 2. Create custom label
+###  Create custom label
 | Label                | Meaning / Purpose                                                 |
 | -------------------- | ----------------------------------------------------------------- |
 | `needs-triage`       | Newly submitted issue that hasn’t been reviewed yet.              |
@@ -104,7 +104,14 @@ git push origin main
 | `API`                | Relates to API endpoints or API work.                             |
 | `infra`              | Relates to infrastructure, DevOps, or deployment.                 |
 
-### 3. Activate the Discussions
+### Activate the Discussions
 In you repo -> Settings > Features > Discussions (check)
 
+### nodify the config.yml for you discussions repo link
+Open **config.yml**
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a Question
+    url: https://github.com/mis-bghmc/your-repo/discussions
+    about: Please use Discussions for questions
 
