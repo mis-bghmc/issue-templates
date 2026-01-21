@@ -100,7 +100,6 @@ git push origin main
 | `documentation`      | Issue related to documentation or docs updates.                   |
 | `frontend`           | Affects the frontend/UI.                                          |
 | `backend`            | Affects the backend/server-side.                                  |
-| `frontend & backend` | Affects both frontend/UI and Affects the backend/server-side.     |
 | `API`                | Relates to API endpoints or API work.                             |
 | `infra`              | Relates to infrastructure, DevOps, or deployment.                 |
 
